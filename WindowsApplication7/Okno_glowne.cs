@@ -17,7 +17,8 @@ namespace WindowsApplication7
 {
     public partial class Okno_glowne : Form
     {
-        bool polaczeni_z_baza = false;
+
+        bool polaczeni_z_baza = false; //na starcei ustawiona jako false
         klasa_okno_logowania okno; // okno logowania
         OracleConnection con;    //polacznie z baza
         string password = "", user = "", baza = "";
