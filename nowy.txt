@@ -1,3 +1,6 @@
 nowa linia
 linia 2
 linia 3 master
+
+linia 3 developer
+
