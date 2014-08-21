@@ -2,3 +2,5 @@ nowa linia
 linia 2
 
 linia 4 developer
+
+nowa linia
